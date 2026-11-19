@@ -83,10 +83,10 @@ telco-churn-analysis/
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/telco-churn-analysis.git
+git clone https://github.com/<codewithyashu2/telco-churn-analysis.git
 cd telco-churn-analysis
 pip install -r requirements.txt
-./run_all.sh        # or run the four scripts in python/ in order
+./run_all.sh line, because that scripts doesn't work on windows. on windows, run the four scripts in the python/ folder in order(01 to 04)
 ```
 
 Then follow [`powerbi/DASHBOARD_GUIDE.md`](powerbi/DASHBOARD_GUIDE.md) to build the report from `powerbi/data/*.csv`.
