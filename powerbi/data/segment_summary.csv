@@ -1,0 +1,16 @@
+segment_type,segment,customers,churned,churn_rate_pct,avg_monthly_charges
+Contract type,Month-to-month,3875,1655,42.71,66.4
+Contract type,One year,1473,166,11.27,65.05
+Contract type,Two year,1695,48,2.83,60.77
+Tenure band,1. 0-12 months,2186,1037,47.44,56.1
+Tenure band,2. 13-24 months,1024,294,28.71,61.36
+Tenure band,3. 25-48 months,1594,325,20.39,65.93
+Tenure band,4. 49-72 months,2239,213,9.51,73.95
+Service usage,0. No internet,1526,113,7.4,21.08
+Service usage,1. Internet only (0 add-ons),693,362,52.24,58.59
+Service usage,2. Light (1-2 add-ons),1999,812,40.62,69.11
+Service usage,3. Moderate (3-4 add-ons),1970,496,25.18,83.42
+Service usage,4. Heavy (5-6 add-ons),855,86,10.06,94.56
+Internet service,DSL,2421,459,18.96,58.1
+Internet service,Fiber optic,3096,1297,41.89,91.5
+Internet service,No,1526,113,7.4,21.08

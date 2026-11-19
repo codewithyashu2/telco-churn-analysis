@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# Rebuilt by python/01_load_to_sqlite.py
+data/telco_churn.db
+# Power BI temp files
